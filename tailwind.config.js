@@ -9,6 +9,9 @@ export default {
 				RazerBold: "RazerF5Bold, Arial, Tahoma, sans-serif;",
 				Normal: "Roboto, helvetica neue, Arial, noto sans, sans-serif;",
 			},
+			colors: {
+				secondaryWhite: "#888",
+			},
 		},
 	},
 	plugins: [],
