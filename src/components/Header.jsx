@@ -4,10 +4,10 @@ import { BsSearch } from "react-icons/bs";
 const Header = () => {
 	return (
 		<header className="w-full bg-black font-RazerF5 flex justify-center py-3">
-			<div className="flex gap-7 items-center justify-around w-[85%]">
+			<div className="flex gap-[4rem] items-center justify-around w-[85%]">
 				<a href="https://www.razer.com/br-pt" target="_blank">
 					<img
-						className="h-9"
+						className="h-[2.35rem]"
 						alt="Razer Logo"
 						src="https://assets2.razerzone.com/images/phoenix/razer-ths-logo.svg"
 					/>
